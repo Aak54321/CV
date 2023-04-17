@@ -1,20 +1,73 @@
-body {
-    background-color: #EAF6F6;
+.intro{
+    font-family: 'Sacramento',cursive;
+    margin-top: 0;
+    font-size: 175px;
+    color:#66bfbf;
+    line-height:2;
+    position:relative;
 }
+.top-container{
+    height: 25%;
+    background-color:#E4F9F5;
+    margin: 0;
+}
+.cloud-1{
+height:auto;
+width: 10%;
+position: absolute;
+top:20px;
+left:295px;
+}
+.cloud-2{
+height:auto;
+width: 10%;
+position:absolute;
+top:250px;
+left:1400px;
 
-hr {
-    border-style: none;
-    border-top-style: dotted;
-    border-top-color:grey;
-    border-width:5px;
-    width: 10%;
 }
-h1{
-    color:#66bfbf;
+body{
+    margin: 0;
+    background-color: #E4F9F5;
 }
-h3{
-    color:#66bfbf;
+.hello{
+    height: 175px;
+    width: 175px;
+    position:absolute;
+    top:125px;
+    right: 873px;
+
 }
-em{
+.middle-container{
+    font-family: 'Merriweather',serif;
+}
+h2{
+     font-family: 'Montserrat', sans-serif;
+     color:#66bfbf;
+}
+.stu{
+    font-family:Merriweather,serif;
+    font-size:2.5rem;
     color:#66bfbf;
+    font-weight: normal;
+}
+.profile{
+    height:350px;
+    background-color: rgb(228,249,245);
+    position: relative;
+}
+.bird-1{
+    width:158px;
+    height:150px;
+    position: absolute;
+    top:350px;
+    left:1300px;
+}
+.school{
+    height: 175px;
+    width: 175px;
+}
+.mcsp{
+    height:175px;
+    width: 175px;
 }
