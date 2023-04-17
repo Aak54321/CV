@@ -71,3 +71,10 @@ h2{
     height:175px;
     width: 175px;
 }
+.li{
+    height:80px;
+    margin-right: 28px;
+}
+.li:hover{
+    transform:translateY(-10px);
+}
